@@ -1,5 +1,5 @@
 # genial-android-app
-An Android app just for studies.
+An Android app just for studies. For now...
 
 # Users can
 - Sign-in and/or register in the app using e-mail/password or Google account.
