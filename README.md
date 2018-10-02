@@ -10,9 +10,9 @@ An Android app just for studies.
 - Delete account
 
 # Libraries and frameworks used
-Firebase Database
-Firebase Auth/AuthUI
-Firebase Storage
-squareup.Picasso
-jkwiecien:EasyImage
-drawers:SpinnerDatePicker
+- Firebase Database
+- Firebase Auth/AuthUI
+- Firebase Storage
+- squareup.Picasso
+- jkwiecien:EasyImage
+- drawers:SpinnerDatePicker
