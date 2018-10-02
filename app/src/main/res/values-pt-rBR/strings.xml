@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicativo Genial Java</string>
+    <string name="app_header">Está pronto para usar um aplicativo incrível?</string>
+    <string name="hello_world">Olá Mundo!</string>
+    <string name="text_presentation">Este app representa uma longa jornada de uma tentativa de entrar no mundo do desenvolvimento Android. Começa como um hobby de um usuário de Android que ama Android, mas codificação não é sua especialidade. Então vamos tentar. :)</string>
+    <string name="button_getStarted">Começar</string>
+    <string name="button_exit">Sair</string>
+    <string name="button_delete_account">Excluir conta</string>
+    <string name="title_activity_login">Entrar</string>
+    <string name="title_activity_firebase_login">Login</string>
+    <string name="prompt_email">E-mail</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">Entrar ou registrar</string>
+    <string name="action_sign_in_short">Entrar</string>
+    <string name="error_invalid_email">Este endereço de e-mail é inválido</string>
+    <string name="error_invalid_email_or_password">Endereço de e-mail ou senha inválidos</string>
+    <string name="error_invalid_password">Esta senha é muito curta</string>
+    <string name="error_incorrect_password">A senha está incorreta</string>
+    <string name="error_field_required">Este campo é necessário</string>
+    <string name="error_login">Ocorreu um erro ao fazer login.</string>
+    <string name="error_login_cancelled">Login cancelado.</string>
+    <string name="error_email_already_used">O endereço de e-mail já está em uso por outra conta.</string>
+    <string name="permission_rationale">Permissões de contatos são necessárias</string>
+    <string name="button_enter_with_google">Entrar com o Google</string>
+    <string name="button_register">Criar uma nova conta</string>
+    <string name="loading">Carregando…</string>
+    <string name="no_internet_connection">Sem conexão com a internet</string>
+    <string name="error_update_profile">Um erro ocorreu ao atualizar o perfil. Por favor, tente novamente.</string>
+    <string name="birthday_date_mask">DDMMAAAA</string>
+    <string name="birthday_hint">Data de nascimento</string>
+    <string name="gender_hint">Gênero</string>
+    <string name="email_verification_sent">E-mail de verificação enviado.</string>
+    <string name="email_verification_alert_title">Verifique seu e-mail</string>
+    <string name="email_verification_alert_message">Enviamos um e-mail de verificação para o novo endereço.</string>
+    <string name="profile_updated_success">Perfil atualizado com sucesso.</string>
+    <string name="error_check_inputs">Por favor, preencha corretamente os campos necessários.</string>
+    <string name="button_change_email">Alterar e-mail</string>
+    <string name="button_change_password">Alterar senha</string>
+    <string name="change_email_alert_title">Alterar e-mail</string>
+    <string name="change_email_alert_message">Insira seu novo endereço de e-mail.</string>
+    <string name="change_password_alert_title">Alterar senha</string>
+    <string name="change_password_alert_message">Confirme sua senha atual para realizar a alteração.</string>
+    <string name="delete_account_alert_title">Deseja realmente excluir sua conta?</string>
+    <string name="delete_account_alert_message">Todos os seus dados serão excluídos permanentemente.</string>
+    <string name="delete_account_alert_reauth_title">Entre novamente para confirmar</string>
+    <string name="delete_account_alert_reauth_message">Excluir a conta é uma operação sensível e requer um login recente. Por favor, saia da sua conta e entre novamente para realizar essa ação.</string>
+    <string name="change_button">Alterar</string>
+    <string name="cancel_button">Cancelar</string>
+    <string name="confirm_password_hint">Confirme a senha atual</string>
+    <string name="button_verify_email">Verificar</string>
+    <string name="update_email_success">Senha alterada com sucesso.</string>
+    <string name="new_password_hint">Nova senha</string>
+    <string name="account_title">Conta</string>
+    <string name="sign_out_alert_title">Tem certeza que deseja sair?</string>
+    <string name="sign_out_alert_message">Você poderá entrar novamente na sua conta quando quiser.</string>
+    <string name="select_profile_picture_location">Foto do perfil</string>
+
+    <string-array name="gender_array">
+        <item>Feminino</item>
+        <item>Masculino</item>
+    </string-array>
+</resources>

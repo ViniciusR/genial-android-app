@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Genial App Java</string>
+    <string name="app_header">Are you ready to use an amazing app?</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="text_presentation">This app represents a long journey of an attempt to enter in the Android development World. It starts as a hobby of an Android user who loves Android, but coding is not his specialty. So let\'s try it. :)</string>
+    <string name="button_getStarted">Get started</string>
+    <string name="button_exit">Exit</string>
+    <string name="button_delete_account">Delete account</string>
+    <string name="loading">Loading…</string>
+
+    <!-- Strings related to login -->
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_firebase_login">Login</string>
+    <string name="prompt_email">E-mail</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This e-mail address is invalid</string>
+    <string name="error_invalid_email_or_password">Invalid E-mail address or password</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_login">An error occurred while signing.</string>
+    <string name="error_email_already_used">The email address is already in use by another account.</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+    <string name="error_login_cancelled">Sign-in cancelled.</string>
+    <string name="prompt_password">Password</string>
+    <string name="button_enter_with_google">Enter with Google</string>
+    <string name="button_register">Create a new account</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="error_update_profile">An error occurred while updating profile. Please, try again.</string>
+    <string name="birthday_date_mask">DDMMYYYY</string>
+    <string name="birthday_hint">Birthday</string>
+    <string name="gender_hint">Gender</string>
+    <string name="email_verification_sent">E-mail verification sent.</string>
+    <string name="email_verification_alert_title">Verify your e-mail</string>
+    <string name="email_verification_alert_message">We have sent you a verification e-mail to the new address.</string>
+    <string name="profile_updated_success">Profile updated successfully.</string>
+    <string name="error_check_inputs">Please, fill the required fields correctly</string>
+    <string name="button_change_email">Change e-mail</string>
+    <string name="button_change_password">Change password</string>
+    <string name="change_email_alert_title">Change e-mail</string>
+    <string name="change_email_alert_message">Insert your new e-mail address</string>
+    <string name="change_password_alert_title">Change password</string>
+    <string name="change_password_alert_message">Confirm your current password to perform the change.</string>
+    <string name="delete_account_alert_title">Are you sure you want to delete your account?</string>
+    <string name="delete_account_alert_message">All your data will be permanently deleted.</string>
+    <string name="delete_account_alert_reauth_title">Sign in again to confirm</string>
+    <string name="delete_account_alert_reauth_message">Deleting the account is a sensitive operation and requires a recent login. Please, sign out and sign in again to perform this action.</string>
+    <string name="change_button">Change</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="confirm_password_hint">Confirm the current password</string>
+    <string name="button_verify_email">Verify</string>
+    <string name="update_email_success">Password changed successfully.</string>
+    <string name="new_password_hint">New password</string>
+    <string name="account_title">Account</string>
+    <string name="sign_out_alert_title">Are you sure you want to sign out?</string>
+    <string name="sign_out_alert_message">You can login back to your account anytime you want.</string>
+    <string name="select_profile_picture_location">Profile picture</string>
+
+
+    <string-array name="gender_array">
+        <item>Female</item>
+        <item>Male</item>
+    </string-array>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="android:navigationBarColor">@android:color/background_dark</item>
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+    </style>
+</resources>

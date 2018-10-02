@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "449003566371",
+    "firebase_url": "https://aplicativo-genial-java.firebaseio.com",
+    "project_id": "aplicativo-genial-java",
+    "storage_bucket": "aplicativo-genial-java.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449003566371:android:77144bf24fef393e",
+        "android_client_info": {
+          "package_name": "com.silva.vinicius.aplicativogenialjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449003566371-49h9bt5r2su72b9hv63rifqngrvt9499.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.silva.vinicius.aplicativogenialjava",
+            "certificate_hash": "5f3ce8a5fd333f070636bd03f56782f6da4c3fd7"
+          }
+        },
+        {
+          "client_id": "449003566371-8difhhd0f7m1jl1eur7fnkspn8nag93e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC0tJH1FncyaeAKevlOV7YnAf5Gdxnjnc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449003566371-8difhhd0f7m1jl1eur7fnkspn8nag93e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
